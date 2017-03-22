@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016.
+  ~ chinaume@163.com
+  -->
+
+<resources>
+
+    <declare-styleable name="ToggleButton">
+        <attr name="toggle_border_color" format="color" />
+        <attr name="toggle_border_width" format="dimension" />
+        <attr name="toggle_open_color" format="color" />
+        <attr name="toggle_close_color" format="color" />
+        <attr name="toggle_open_text" format="string" />
+        <attr name="toggle_open_textColor" format="color" />
+        <attr name="toggle_close_text" format="string" />
+        <attr name="toggle_close_textColor" format="color" />
+        <attr name="toggle_color" format="color" />
+        <attr name="toggle_enable" format="boolean" />
+        <attr name="toggle_textSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
