@@ -1,4 +1,4 @@
-
+[![](https://jitpack.io/v/goAV/ToggleButton.svg)](https://jitpack.io/#goAV/ToggleButton)[![Build Status](https://travis-ci.org/goAV/ToggleButton.svg?branch=master)](https://travis-ci.org/goAV/ToggleButton)
 
 ### SHOW
 ![show](./snapshot/QQ20170322-0@2x.png)

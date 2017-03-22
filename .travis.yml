@@ -25,5 +25,5 @@ cache:
 
 
 script:
-  - ./gradlew clean build
+#  - ./gradlew clean build
   - ./gradlew assembleRelease --info
