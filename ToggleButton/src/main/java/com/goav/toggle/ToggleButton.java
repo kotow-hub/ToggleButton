@@ -412,6 +412,10 @@ public class ToggleButton extends View {
 
     private void startAnimation(float lastRight, long duration, ValueAnimator.AnimatorUpdateListener listener) {
 //        ValueAnimator right = ValueAnimator.ofFloat(this.mCenterX, lastRight);
+        if (mAnimator == null) {
+            initAnimator();
+        }
+
         if (mAnimator.isStarted()) {
             mAnimator.cancel();
         }
